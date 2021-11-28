@@ -3,6 +3,14 @@
 	background-color: #ff5500;
 }
 
+body{
+	font-family: 'Poppins', sans-serif;
+}
+
+.jumbotron h1{
+	font-weight: bold;
+}
+
 #gallery{
 	background-color: #ff5500;
 }
